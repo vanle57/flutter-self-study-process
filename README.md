@@ -66,7 +66,7 @@ Cách cài native IDE:
 
 Mình sẽ tóm gọn và chia nhóm các nội dung trong quá trình học ở lược đồ dưới đây:
 
-![process](https://github.com/vanle57/flutter-self-study-process/tree/main/images)
+![process](https://github.com/vanle57/flutter-self-study-process/blob/main/images/Self-study%20Flutter%20proccess.png)
 
 ### 1. Dart:
 
