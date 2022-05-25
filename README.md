@@ -82,9 +82,11 @@ tự học Dart:
 
 - Nếu trình độ tiếng Anh của bạn cũng khá ổn thì sử dụng tài liệu chính chủ này: [Dart cheatsheet codelab | Dart](https://dart.dev/codelabs/dart-cheatsheet).
 
-**** Trình tự cho các bạn tự học Dart:***
+**_* Trình tự học Dart:_**
 
-
+1. Basic Dart: Các kiểu dữ liệu, khai báo biến, hàm cơ bản, khai báo hàm, các câu lệnh cơ bản (if else, for,…), toán tử, null safety...
+2. OOP
+3. Nâng cao 1 tí: Bất đồng bộ, xử lý lỗi
 
 ### 2. Flutter:
 
@@ -100,9 +102,7 @@ Sau khi đã nắm được những cú pháp căn bản của Dart, các bạn 
 
 > Layout là gì? Hiểu nôm na đó sẽ là cách bạn sắp xếp các widget trên màn hình và vị trí của chúng. Ví dụ như là chúng nằm giữa màn hình, khoảng cách giữa chúng là bao nhiêu, khoảng cách của 1 widget đối với màn hình, các widget sắp xếp theo chiều dọc hay theo chiều ngang… vân vân và mây mây…
 
-**** Tip của mình:*** Trong khi học đến bài nào thì mình hay research tiếp về loại widget đó trên trang [material library](https://api.flutter.dev/flutter/material/material-library.html) của flutter để đọc thêm về nó. Còn nếu các bạn muốn nhanh thì có thể vừa thực hành vừa học. Chút nữa mình sẽ cung cấp cho các bạn nguồn source tutorial để các bạn có thể thực hành.
-
-
+**_Tip của mình:_** Trong khi học đến bài nào thì mình hay research tiếp về loại widget đó trên trang [material library](https://api.flutter.dev/flutter/material/material-library.html) của flutter để đọc thêm về nó. Còn nếu các bạn muốn nhanh thì có thể vừa thực hành vừa học. Chút nữa mình sẽ cung cấp cho các bạn nguồn source tutorial để các bạn có thể thực hành.
 
 ##### 2.1.2. Layout:
 
@@ -132,8 +132,6 @@ Okay! Vậy là bạn đã đi được 1/2 của chặng đường học UI. B�
 
 > Và 1 số thuộc tính có trong các Widget như width, height...
 
-
-
 Tới đây thì các bạn đã có thể thực hành rồi cho quen cách làm việc với các Widget trong Flutter và nắm rõ 1 số Widget cơ bản. Một số bài tập để các bạn thực hành:
 
 - Flutter Layout: [Layouts in Flutter | Flutter](https://docs.flutter.dev/development/ui/layout)
@@ -144,7 +142,7 @@ Tới đây thì các bạn đã có thể thực hành rồi cho quen cách là
 
 - Hoặc bạn có thể kiếm 1 số UI đẹp đẹp trên [Pinterest](https://www.pinterest.com/search/pins/?q=mobile%20design%20UI&rs=typed&term_meta%5b%5d=mobile%7Ctyped&term_meta%5b%5d=design%7Ctyped&term_meta%5b%5d=UI%7Ctyped) để follow và làm theo
 
-**** Lưu ý:***
+**Lưu ý:**
 
 - Khi nhìn vào UI mà bạn khó xác định được đó là loại Widget nào thì có thể tham khảo [Flutter Gallery](https://gallery.flutter.dev/#/).
 
@@ -192,5 +190,6 @@ Một số source app bạn có thể thực hành:
 
 ## 5. Tạm kết
 
+Qua bài hôm nay, các bạn đã phần nào đúc kết được thêm kinh nghiệm trong quá trình tự học Flutter. Trong tương lai, mình sẽ tự viết những chủ đề về Flutter. Các bạn có thể nghiên cứu các bài viết chính chủ của mình thay vì phải sử dụng source trang khác.
 
-
+Xin cảm ơn các bạn đã theo dõi và hẹn gặp lại!
