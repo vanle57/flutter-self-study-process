@@ -46,7 +46,7 @@ Sau đó là IDE để lập trình Flutter. Ở đây, bạn có thể sử d�
 
 Khi lập trình ứng dụng di động thì bạn cần có simulator / emulator để có thể build code lên và xem giao diện của ứng dụng bạn vừa lập trình hiển thị ra sao. Bạn cũng có thể lựa chọn cách build test lên device thật để tiết kiệm được bộ nhớ nhưng theo mình thì dù sao các bạn cũng phải cần có native IDE (Android Studio cho android / XCode cho iOS) nên mình nghĩ tốt nhất là tận dụng luôn simulator / emulator của native IDE.
 
-> Vì sao cần phải có native IDE? Đó là vì Flutter là 1 react framework và đôi khi các bạn sẽ gặp phải trường hợp cần debug hoặc cần sử dụng đến các native API. Tất nhiên là có các package để hỗ trợ các bạn nhưng tin mình đi, các pakage đó cũng có bug và đôi khi thay vì khùng điên fix nó hoặc chờ dev của họ fix thì các bạn nên tự code ra hơn. Vừa học hỏi được mà vừa dễ maintain.
+> Vì sao cần phải có native IDE? Đó là vì Flutter là 1 react framework và đôi khi các bạn sẽ gặp phải trường hợp cần debug hoặc cần sử dụng đến các native API. Tất nhiên là có 1 số package để hỗ trợ các bạn nhưng tin mình đi, các pakage đó cũng có bug và đôi khi thay vì khùng điên fix nó hoặc chờ dev của họ fix thì các bạn nên tự fix hay tốt hơn là tự code ra luôn. Vừa học hỏi được mà vừa dễ maintain.
 
 > Để sử dụng native API trên Flutter thì mời các bạn đọc qua [bài viết này]() của mình.
 
