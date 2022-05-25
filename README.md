@@ -1,4 +1,4 @@
-# My self-study process - Flutter
+# Mình đã tự học Flutter như thế nào?
 
 ## 1. Intro
 
