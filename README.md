@@ -8,8 +8,6 @@ Xin chào các bạn! Đây là bài viết thứ 3 của mình về Flutter. B�
 
 Về bản thân mình thì mọi người có thể đọc qua tại [đây](https://github.com/vanle57).
 
-
-
 ## 2. Giới thiệu sơ lược về Flutter
 
 Flutter là 1 framework được phát triển trên ngôn ngữ lập trình Dart. Flutter cho phép bạn có thể sử dụng 1 base code và build lên nhiều nền tảng khác nhau, bao gồm:
@@ -40,8 +38,6 @@ Các bạn có thể đọc thêm về Flutter trên các trang khác, ở đây
 
 > Vì mình là một lập trình viên iOS nên mình sẽ hướng dẫn các bạn sử dụng Flutter để lập trình ứng dụng di động.
 
-
-
 ## 3. Các công cụ cần chuẩn bị để lập trình với Flutter
 
 Đầu tiên, bạn cần [tải và cài đặt Flutter](https://docs.flutter.dev/get-started/install?gclid=CjwKCAjw4ayUBhA4EiwATWyBropvvQHmsTXV6sIBEbby-GVADpdzUWnhLzzpmoZ9I2ZItcKNwsldkxoCj6wQAvD_BwE&gclsrc=aw.ds).
@@ -59,8 +55,6 @@ Cách cài native IDE:
 - Android Studio: bạn download về và cài đặt qua [đây](https://developer.android.com/studio).
 
 - Xcode: khá chua là XCode chỉ có thể down được từ App Store hoặc [trang download của Apple](https://developer.apple.com/download/all/) và việc này đòi hỏi bạn phải có 1 cái máy chạy hệ điều hành MacOS (sử dụng Macbook chính chủ hoặc dùng Hackintosh trên các dòng máy khác) hoặc apple id.
-
-
 
 ## 4. Quá trình tự học của mình
 
@@ -136,7 +130,7 @@ Tới đây thì các bạn đã có thể thực hành rồi cho quen cách là
 
 - Flutter Layout: [Layouts in Flutter | Flutter](https://docs.flutter.dev/development/ui/layout)
 
--  WhatsApp: [GitHub - iampawan/FlutterWhatsAppClone: Building a WhatsApp Clone in Flutter.](https://github.com/iampawan/FlutterWhatsAppClone)
+- WhatsApp: [GitHub - iampawan/FlutterWhatsAppClone: Building a WhatsApp Clone in Flutter.](https://github.com/iampawan/FlutterWhatsAppClone)
 
 - Instargram: [GitHub - iampawan/Flutter-Instagram-UI-Clone: Instagram Ui Clone made using Flutter.](https://github.com/iampawan/Flutter-Instagram-UI-Clone)
 
@@ -147,8 +141,6 @@ Tới đây thì các bạn đã có thể thực hành rồi cho quen cách là
 - Khi nhìn vào UI mà bạn khó xác định được đó là loại Widget nào thì có thể tham khảo [Flutter Gallery](https://gallery.flutter.dev/#/).
 
 - Đối với những bạn dev từ nền tảng khác sang (Android, iOS, web…) thì đọc thêm [doc của Flutter cho lập trình viên từng nền tảng](https://docs.flutter.dev/get-started/flutter-for/android-devs), các bạn sẽ cảm thấy dễ tiếp cận hơn đấy!
-
-
 
 #### 2.2. Navigation & Router:
 
@@ -161,8 +153,6 @@ Các bạn có thể tham khảo 1 số nguồn tài liệu sau về các kỹ t
 - [Navigation và Routing trong Flutter](https://openplanning.net/13151/flutter-navigation-and-routing)
 
 - Chính chủ: [Navigation and routing | Flutter](https://docs.flutter.dev/development/ui/navigation)
-
-
 
 #### 2.3. State Management:
 
@@ -186,10 +176,18 @@ Một số source app bạn có thể thực hành:
 
 - [Bloc - Devfest app](https://github.com/iampawan/GDG-DevFest-App)
 
-
-
 ## 5. Tạm kết
 
 Qua bài hôm nay, các bạn đã phần nào đúc kết được thêm kinh nghiệm trong quá trình tự học Flutter. Trong tương lai, mình sẽ tự viết những chủ đề về Flutter. Các bạn có thể nghiên cứu các bài viết chính chủ của mình thay vì phải sử dụng source trang khác.
 
 Xin cảm ơn các bạn đã theo dõi và hẹn gặp lại!
+
+
+
+#### Tài liệu tham khảo:
+
+- [Flutter dev](https://flutter.dev/?gclid=Cj0KCQjwhLKUBhDiARIsAMaTLnE3LTrjK8C-4-63Dt7kvlhHMXKHCEP9KwwFmKqxab9rnZmpY8iQbs4aAtRgEALw_wcB&gclsrc=aw.ds)
+
+- [Bài 1: Giới thiệu Flutter - Học lập trình Flutter cơ bản](https://vncoder.vn/bai-hoc/gioi-thieu-flutter-204)
+
+- Và tất cả các tài liệu tham khảo mình đều dẫn link ở phía trên rồi nha!
