@@ -76,7 +76,7 @@ tự học Dart:
 
 - Nếu trình độ tiếng Anh của bạn cũng khá ổn thì sử dụng tài liệu chính chủ này: [Dart cheatsheet codelab | Dart](https://dart.dev/codelabs/dart-cheatsheet).
 
-**_* Trình tự học Dart:_**
+**_*Trình tự học Dart:_**
 
 1. Basic Dart: Các kiểu dữ liệu, khai báo biến, hàm cơ bản, khai báo hàm, các câu lệnh cơ bản (if else, for,…), toán tử, null safety...
 2. OOP
@@ -144,7 +144,7 @@ Tới đây thì các bạn đã có thể thực hành rồi cho quen cách là
 
 #### 2.2. Navigation & Router:
 
-Đối với những bạn có kiến thức về lập trình mobile, chắc hẳn đã quá quen với 2 khái niệm này. Hiểu đơn giản nôm na đây chính là điều hướng giữa các màn hình. Trong 1 ứng dụng thì chắc chắn không thể nào thiếu việc này (trừ khi ứng dụng của bạn chỉ có 1 màn hình duy nhất). Mình lấy ví dụ như khi bạn vào gặp màn hình Login và login xong thì vào Home, quá trình chuyển đổi giữa màn hình Login và màn hình Home chính là **Navigation** (hay còn gọi là điều hướng).
+Đối với những bạn có kiến thức về lập trình mobile, chắc hẳn đã quá quen với 2 khái niệm này. Hiểu đơn giản nôm na đây chính là **điều hướng giữa các màn hình**. Trong 1 ứng dụng thì chắc chắn không thể nào thiếu việc này (trừ khi ứng dụng của bạn chỉ có 1 màn hình duy nhất). Mình lấy ví dụ như khi bạn vào gặp màn hình Login và login xong thì vào Home, quá trình chuyển đổi giữa màn hình Login và màn hình Home chính là **Navigation** (hay còn gọi là điều hướng).
 
 Các bạn có thể tham khảo 1 số nguồn tài liệu sau về các kỹ thuật điều hướng trong Flutter:
 
@@ -156,13 +156,13 @@ Các bạn có thể tham khảo 1 số nguồn tài liệu sau về các kỹ t
 
 #### 2.3. State Management:
 
-Trước tiên, bạn phải biết trạng thái (State) là gì. Các bạn nên đọc qua [bài viết này](https://cafedev.vn/tu-hoc-flutter-tim-hieu-ve-cach-quan-ly-statetrang-thai-trong-flutter/). Nếu bạn đủ quyết tâm và muốn đào sâu kiến thức thì có thể đọc [loạt bài viết chính chủ này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro). Tuy nhiên, cá nhân mình thì thấy thêm để tránh mất thời gian và gây nản chí vì đọc không hiểu, ban đầu bạn chỉ cần nắm khái niệm cơ bản và hiểu được cách nó hoạt động, còn những gì sâu xa thì qua quá trình làm, các bạn đã đủ vững rồi thì có thể tiếp tục đào sâu.
+Trước tiên, bạn phải biết trạng thái (**State**) là gì. Các bạn nên đọc qua [bài viết này](https://cafedev.vn/tu-hoc-flutter-tim-hieu-ve-cach-quan-ly-statetrang-thai-trong-flutter/). Nếu bạn đủ quyết tâm và muốn đào sâu kiến thức thì có thể đọc [loạt bài viết chính chủ này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro). Tuy nhiên, cá nhân mình thì thấy để tránh mất thời gian và gây nản chí thêm vì đọc không hiểu, ban đầu bạn chỉ cần nắm khái niệm cơ bản và hiểu được cách nó hoạt động, còn những gì sâu xa thì qua quá trình làm, các bạn đã đủ vững rồi thì có thể tiếp tục đào sâu.
 
 Sau đó sẽ đến [list state management này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options). Trong list này thì:
 
 - [setState](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#setstate): chính chủ Flutter, cơ bản của cơ bản trong việc quản lý state nên cần nắm rõ.
 
-- [InheritedWidget & InheritedModel](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#inheritedwidget--inheritedmodel): cũng chính chủ Flutter và là nền tảng nên cũng nên tìm hiểu qua.
+- [InheritedWidget & InheritedModel](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#inheritedwidget--inheritedmodel): cũng chính chủ Flutter và là nền tảng, vì vậy cũng nên tìm hiểu qua.
 
 - [Bloc](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#bloc--rx): 1 pattern ngoài, hay được áp dụng nhiều nhất trong Flutter.
 
