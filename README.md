@@ -32,7 +32,7 @@ Một số đặc điểm nổi bật của Flutter:
 
 - Giao diện ứng dụng được build bởi Flutter có hiệu năng cực cao hơn hẳn các framework khác như React native.
 
-- Xây dựng bộ widget phù hợp với nguyên tắc của Material Design và Curpotine, giúp các nhà phát triển có thể tiết kiệm thời gian trong việc dựng UI.
+- Xây dựng bộ widget phù hợp với nguyên tắc của Material Design và Curpotino, giúp các nhà phát triển có thể tiết kiệm thời gian trong việc dựng UI.
 
 Các bạn có thể đọc thêm về Flutter trên các trang khác, ở đây mình chỉ giới thiệu sơ qua vậy thôi!
 
@@ -144,7 +144,8 @@ Tới đây thì các bạn đã có thể thực hành rồi cho quen cách là
 
 #### 2.2. Navigation & Router:
 
-Đối với những bạn có kiến thức về lập trình mobile, chắc hẳn đã quá quen với 2 khái niệm này. Hiểu đơn giản nôm na đây chính là **điều hướng giữa các màn hình**. Trong 1 ứng dụng thì chắc chắn không thể nào thiếu việc này (trừ khi ứng dụng của bạn chỉ có 1 màn hình duy nhất). Mình lấy ví dụ như khi bạn vào gặp màn hình Login và login xong thì vào Home, quá trình chuyển đổi giữa màn hình Login và màn hình Home chính là **Navigation** (hay còn gọi là điều hướng).
+Đối với những bạn có kiến thức về lập trình mobile, chắc hẳn đã quá quen với 2 khái niệm này. Hiểu đơn giản nôm na đây chính là **điều hướng giữa các màn hình**. Trong 1 ứng dụng thì chắc chắn không thể nào thiếu việc này (trừ khi ứng dụng của bạn chỉ có 1 màn hình duy nhất). 
+Mình lấy ví dụ như khi bạn vào gặp màn hình Login và login xong thì vào Home, quá trình chuyển đổi giữa màn hình Login và màn hình Home chính là **Navigation** (hay còn gọi là điều hướng).
 
 Các bạn có thể tham khảo 1 số nguồn tài liệu sau về các kỹ thuật điều hướng trong Flutter:
 
@@ -156,7 +157,7 @@ Các bạn có thể tham khảo 1 số nguồn tài liệu sau về các kỹ t
 
 #### 2.3. State Management:
 
-Trước tiên, bạn phải biết trạng thái (**State**) là gì. Các bạn nên đọc qua [bài viết này](https://cafedev.vn/tu-hoc-flutter-tim-hieu-ve-cach-quan-ly-statetrang-thai-trong-flutter/). Nếu bạn đủ quyết tâm và muốn đào sâu kiến thức thì có thể đọc [loạt bài viết chính chủ này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro). Tuy nhiên, cá nhân mình thì thấy để tránh mất thời gian và gây nản chí thêm vì đọc không hiểu, ban đầu bạn chỉ cần nắm khái niệm cơ bản và hiểu được cách nó hoạt động, còn những gì sâu xa thì qua quá trình làm, các bạn đã đủ vững rồi thì có thể tiếp tục đào sâu.
+Trước tiên, bạn phải biết trạng thái (**State**) là gì. Các bạn nên đọc qua [bài viết này](https://cafedev.vn/tu-hoc-flutter-tim-hieu-ve-cach-quan-ly-statetrang-thai-trong-flutter/). Nếu bạn đủ quyết tâm và muốn đào sâu kiến thức thì có thể đọc [loạt bài viết chính chủ này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro). Tuy nhiên, cá nhân mình thì thấy để tránh mất thời gian và gây nản chí thêm vì đọc không hiểu, ban đầu bạn chỉ cần nắm khái niệm cơ bản và hiểu được cách nó hoạt động. Còn những gì sâu xa thì sau quá trình luyện tập và các bạn đã đủ vững rồi, các bạn có thể tiếp tục đào sâu.
 
 Sau đó sẽ đến [list state management này](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options). Trong list này thì:
 
