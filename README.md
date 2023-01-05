@@ -2,9 +2,7 @@
 
 ## 1. Intro
 
-Xin chào các bạn! Đây là bài viết thứ 3 của mình về Flutter. Bài viết hôm nay sẽ không có code mà mình sẽ chia sẻ về quá trình tự học Flutter của mình và những tài liệu mình đã dùng để những ai cũng có mong muốn tự tìm tòi như mình có thêm chút kinh nghiệm. 
-
-> Có vẻ hơi ngược ngược thứ tự tí vì lẽ ra đây phải là bài thứ nhất chứ nhỉ! Nhưng mà mình viết theo cảm hứng nên hơi lộn xộn vậy. Ahihi!
+Xin chào các bạn! Bài viết hôm nay sẽ không có code mà mình sẽ chia sẻ về quá trình tự học Flutter của mình và những tài liệu mình đã dùng để những ai cũng có mong muốn tự tìm tòi như mình có thêm chút kinh nghiệm. 
 
 Về bản thân mình thì mọi người có thể đọc qua tại [đây](https://github.com/vanle57).
 
